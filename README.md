@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭今天是个好天气
+- 🌱天气是个好今天
 <!--
 **zhangyimingovo/zhangyimingovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
