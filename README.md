@@ -2,9 +2,9 @@
 - 👋안녕하세요, 저는 장이밍입니다.
 - 🏫저는 DCU 대학의 유학생으로 파이썬을 공부하고 있습니다.
 - 📫 어떻게 연락주시나요?  **Slack**: [장이밍]
-- ### ✍️ 个人技术专栏 (Technical Blog)
-> 记录我在 DCU 的学习笔记、Python 实践以及 Cisco 网络实验心得。
-[![CSDN](https://blog.csdn.net/weixin_59507792?spm=1010.2135.3001.10640)](https://blog.csdn.net/weixin_59507792?spm=1010.2135.3001.10640)
+- ### ✍️ 개인기 특별란 (Technical Blog)
+> >내 학습 노트, 파이썬 실습, Cisco 온라인 실험 경험을 기록합니다.
+[![CSDN](https://img.shields.io/badge/CSDN-Super%E9%B8%A3_-orange?style=for-the-badge&logo=csdn)](https://blog.csdn.net/weixin_59507792)
 - 🌱만나서 반가워요.
 <!--
 **zhangyimingovo/zhangyimingovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
