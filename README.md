@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 👋안녕하세요, 저는 장이밍입니다, 저는 DCU 대학의 유학생으로 파이썬을 공부하고 있습니다.
+- 👋안녕하세요, 저는 장이밍입니다.
+- 🏫저는 DCU 대학의 유학생으로 파이썬을 공부하고 있습니다.
 - 📫 어떻게 연락주시나요?  **Slack**: [장이밍]
-- 🔭**Location**: 현재 DCU Campus (Amane Hall) 거주
+- ### ✍️ 个人技术专栏 (Technical Blog)
+> 记录我在 DCU 的学习笔记、Python 实践以及 Cisco 网络实验心得。
+[![CSDN](https://img.shields.io/badge/CSDN-Super%E9%B8%A3_-orange?style=for-the-badge&logo=csdn)](https://blog.csdn.net/2301_81387609)
 - 🌱만나서 반가워요.
 <!--
 **zhangyimingovo/zhangyimingovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
