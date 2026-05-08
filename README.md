@@ -4,7 +4,7 @@
 - 📫 어떻게 연락주시나요?  **Slack**: [장이밍]
 - ### ✍️ 个人技术专栏 (Technical Blog)
 > 记录我在 DCU 的学习笔记、Python 实践以及 Cisco 网络实验心得。
-[![CSDN](https://img.shields.io/badge/CSDN-Super%E9%B8%A3_-orange?style=for-the-badge&logo=csdn)](https://blog.csdn.net/2301_81387609)
+[![CSDN](https://blog.csdn.net/weixin_59507792?spm=1010.2135.3001.10640)](https://blog.csdn.net/weixin_59507792?spm=1010.2135.3001.10640)
 - 🌱만나서 반가워요.
 <!--
 **zhangyimingovo/zhangyimingovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
